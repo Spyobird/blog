@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content on Hi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Aug 2024 02:53:09 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>040824</title>
+      <link>http://localhost:1313/blog/posts/040824/</link>
+      <pubDate>Mon, 05 Aug 2024 02:53:09 +0800</pubDate>
+      <guid>http://localhost:1313/blog/posts/040824/</guid>
+      <description>Reflections on being funemployed So the past week I decided it would be an interesting idea to document each day with an instagram story. I did it mainly because I was getting too bored being unemployed, so I hoped that maybe it would help me appreciate each day a bit more, while also helping me to think of more things to do to fill my time in order to not have a boring story on any particular day.</description>
+    </item>
+  </channel>
+</rss>
