@@ -1,4 +1,4 @@
 baseURL = 'https://spyobird.github.io/blog/'
 languageCode = 'en-us'
-title = 'Hi'
+title = "elliot's blog"
 theme = 'hugo-simple'
