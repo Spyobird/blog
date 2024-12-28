@@ -82,7 +82,7 @@ $$
 \displaylines{Q_{2,s}(P_s)=a_2-b_2P_s\\Q_{2,\ell}(P_\ell)=a_2-b_2P_\ell}
 $$
 
-The choice of which bottle each consumer purchases depends on the prices $P_s$ and $P_\ell$. Consumer 1 will prefer small bottles if $P_s-c_{\text{conv}}<P_\ell$ and vice versa. Consumer 2 looks solely at price, preferring small bottles if $P_s< P_\ell$ and vice versa. The remaining condition we have to ensure is that the demand for consumer 2 is more elastic than consumer 1, representing consumer 2’s higher price sensitivity. This can be done through an appropriate choice of constants.
+The choice of which bottle each consumer purchases depends on the prices $P_s$ and $P_\ell$. Consumer 1 will prefer small bottles if $P_s-c_{\text{conv}}\<P_\ell$ and vice versa. Consumer 2 looks solely at price, preferring small bottles if $P_s\< P_\ell$ and vice versa. The remaining condition we have to ensure is that the demand for consumer 2 is more elastic than consumer 1, representing consumer 2’s higher price sensitivity. This can be done through an appropriate choice of constants.
 
 ### Constructing the full model
 
