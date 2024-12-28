@@ -91,13 +91,13 @@ Now that we have created the equations to model consumption and cost, we can sta
 Let us choose some constants for our equations. For our cost functions, we shall choose $c_f=10$, $c_{\text{pack}}=0.02$, $c_{\text{prod}}=0.1$, $d=1$, and $V=1$. This gets us the following cost equations.
 
 $$
-C_s(q_s)=0.22q_s\\C_\ell(q_\ell)=0.20q_\ell\\C(q_s, q_\ell)=10+0.22q_s+0.20q_\ell
+\displaylines{C_s(q_s)=0.22q_s\\C_\ell(q_\ell)=0.20q_\ell\\C(q_s, q_\ell)=10+0.22q_s+0.20q_\ell}
 $$
 
 For consumption, we choose the following constants, $a_1=320$, $b_1=40$, $a_2=500$, $b_2=100$, and $c_{\text{conv}}=0.2$. This gets us the following demand functions.
 
 $$
-Q_{1,s}(P_s)=320-40(P_s-0.2)\\Q_{1,\ell}(P_\ell)=320-40P_\ell\\Q_{2,s}(P_s)=500-100P_s\\Q_{2,\ell}(P_\ell)=500-100P_\ell
+\displaylines{Q_{1,s}(P_s)=320-40(P_s-0.2)\\Q_{1,\ell}(P_\ell)=320-40P_\ell\\Q_{2,s}(P_s)=500-100P_s\\Q_{2,\ell}(P_\ell)=500-100P_\ell}
 $$
 
 Let us first consider consumer 2, the consumer that is indifferent to the container size. We shall begin with small bottles first.
@@ -105,7 +105,7 @@ Let us first consider consumer 2, the consumer that is indifferent to the contai
 Consumer 2 has the demand function of $Q_s=500-100P_s$. The inverse demand function is thus given by $P_s=5-\frac{1}{100}Q_s$. The total revenue is thus given by $\text{TR}_s=P_sQ_s=5Q_s-\frac{1}{100}Q_s^2$, so the marginal revenue is just $\text{MR}_s=\frac{d\text{TR}_s}{dQ_s}=5-\frac{1}{50}Q_s$. We can find the marginal cost with respect to small bottles, by differentiating the cost function with respect to $q_s$. This gives us $\text{MC}_s=\frac{\partial C}{\partial q_s}=0.22$. Notice that we have a constant marginal cost. As this is a monopoly, there is one firm in the market, so $q_s=Q_s$. We can solve for the optimal quantity $Q^*_s$ being produced by setting marginal revenue to equal marginal cost. We get back the optimal price by substituting $Q_s^*$ back into the demand function.
 
 $$
-\text{MR}=\text{MC}\\\Rightarrow5-\frac{1}{50}Q_s^*=0.22\\\Rightarrow Q_s^*=239\\\Rightarrow P^*_s=2.61
+\displaylines{\text{MR}=\text{MC}\\\Rightarrow5-\frac{1}{50}Q_s^*=0.22\\\Rightarrow Q_s^*=239\\\Rightarrow P^*_s=2.61}
 $$
 
 We see that with the small bottles, the optimal number for M&S to produce is 239 units of smoothie at a price of £2.61 per unit.
@@ -115,7 +115,7 @@ With large bottles, the inverse demand function for consumer 2 is the same as fo
 We solve for the optimal price and quantity in the same way as with the small bottles.
 
 $$
-\text{MR}=\text{MC}\\\Rightarrow5-\frac{1}{50}Q_\ell^*=0.2\\\Rightarrow Q_\ell^*=240\\\Rightarrow P^*_\ell=2.60
+\displaylines{\text{MR}=\text{MC}\\\Rightarrow5-\frac{1}{50}Q_\ell^*=0.2\\\Rightarrow Q_\ell^*=240\\\Rightarrow P^*_\ell=2.60}
 $$
 
 With the large bottles, M&S would produce 240 units of smoothie at a price of £2.60 per unit. Notice that we have reduced the price as compared to the small bottles, and have ended up selling an extra unit of smoothie.
@@ -125,7 +125,7 @@ From the perspective of consumer 2, they would choose large bottles over small b
 Let us now consider consumer 1. Similar to before, we shall begin with small bottles. Note that consumer 1 puts value on the convenience of small bottles, and hence is willing to pay a premium for small bottles. The demand function for small bottles is $Q_s=320-40(P_s-0.2)=328-40P_s$. The inverse demand function is given as $P_s=8.2-\frac{1}{40}Q_s$. Similar to before, we can derive the total revenue by multiplying by $Q_s$, and differentiate it to get the marginal revenue. Total revenue is thus $\text{TR}_s=8.2Q_s-\frac{1}{40}Q_s^2$, and marginal revenue is $\text{MR}_s=8.2-\frac{1}{20}Q_s$. The marginal cost is the same as before at $\text{MC}_s=0.22$. Hence, we can solve for the optimal price and quantity.
 
 $$
-\text{MR}=\text{MC}\\\Rightarrow8.2-\frac{1}{20}Q_s^*=0.22\\\Rightarrow Q_s^*=159.6\\\Rightarrow P^*_s=4.21
+\displaylines{\text{MR}=\text{MC}\\\Rightarrow8.2-\frac{1}{20}Q_s^*=0.22\\\Rightarrow Q_s^*=159.6\\\Rightarrow P^*_s=4.21}
 $$
 
 For small bottles, M&S would produce 159.6 units of smoothie at a price of £4.21 per unit. Notice how they can significantly increase the price of small smoothies when selling to consumer 1, as compared to consumer 2. This is the effect of price discrimination.
@@ -133,7 +133,7 @@ For small bottles, M&S would produce 159.6 units of smoothie at a price of £4.2
 Now we finish our analysis with large bottles. The demand function for large bottles is $Q_\ell=320-40P_\ell$. This results in an inverse demand function of $P_\ell=8-\frac{1}{40}Q_\ell$. This results in a total revenue of $\text{TR}_\ell=8Q_\ell-\frac{1}{40}Q_\ell^2$ and hence a marginal revenue of $\text{MR}_\ell=8-\frac{1}{20}Q_\ell$. Using the previously found marginal cost of $\text{MC}_\ell=0.2$, we can solve for the optimal price and quantity.
 
 $$
-\text{MR}=\text{MC}\\\Rightarrow8-\frac{1}{20}Q_\ell^*=0.2\\\Rightarrow Q_\ell^*=156\\\Rightarrow P^*_\ell=4.10
+\displaylines{\text{MR}=\text{MC}\\\Rightarrow8-\frac{1}{20}Q_\ell^*=0.2\\\Rightarrow Q_\ell^*=156\\\Rightarrow P^*_\ell=4.10}
 $$
 
 M&S will choose to produce 156 units of smoothie, selling it at a price of £4.10 per unit. In this case, the price of large bottles of smoothie are still cheaper per unit, but because consumer 1 values convenience, they are willing to pay a premium of £0.20 for small bottles over large bottles. Since $P_s^*-c_{\text{conv}}<P_\ell^*$, consumer 1 would choose small bottles over large bottles.
@@ -141,7 +141,7 @@ M&S will choose to produce 156 units of smoothie, selling it at a price of £4.1
 Given that consumer 1 would purchase small bottles, and consumer 2 would purchase large bottles, we can calculate the total profits made by M&S. To do this, we take the total revenue for each consumer and subtract the total costs of production.
 
 $$
-\pi = \text{TR}-\text{TC}\\=240(2.60)+159.6(4.21)-(10+0.2(240)+0.22(159.6))\\=1295.916-93.112\\=1202.804\approx1202.80
+\displaylines{\pi = \text{TR}-\text{TC}\\=240(2.60)+159.6(4.21)-(10+0.2(240)+0.22(159.6))\\=1295.916-93.112\\=1202.804\approx1202.80}
 $$
 
 With this model, M&S makes a total profit of £1202.80.
@@ -151,13 +151,13 @@ With this model, M&S makes a total profit of £1202.80.
 To evaluate the effects of price discrimination, we can consider a model with a combined consumption. To do this, we do a horizontal summation of both consumer’s demand functions. The following are the resulting combined demand functions.
 
 $$
-Q_s=\begin{cases}828-140P_s&\text{if }0\leq P_s\leq5\\328-40P_s&\text{if }5<P_s\leq8.2\\0&\text{if }P_s>8.2\end{cases}\\Q_\ell=\begin{cases}820-140P_\ell&\text{if }0\leq P_\ell\leq5\\320-40P_\ell&\text{if }5<P_\ell\leq8\\0&\text{if }P_\ell>8\end{cases}
+\displaylines{Q_s=\begin{cases}828-140P_s&\text{if }0\leq P_s\leq5\\328-40P_s&\text{if }5<P_s\leq8.2\\0&\text{if }P_s>8.2\end{cases}\\Q_\ell=\begin{cases}820-140P_\ell&\text{if }0\leq P_\ell\leq5\\320-40P_\ell&\text{if }5<P_\ell\leq8\\0&\text{if }P_\ell>8\end{cases}}
 $$
 
 Let us first begin with the case with small bottles. Consider first the equation $Q_s=828-140P_s$. The inverse demand function is thus $P_s=\frac{207}{35}-\frac{1}{140}Q_s$. The marginal revenue for this function is $\text{MR}_s=\frac{207}{25}-\frac{1}{70}Q_s$. The marginal cost is as before at $\text{MC}_s=0.22$. We solve for the optimal price and quantity as before.
 
 $$
-\text{MR}=\text{MC}\\\Rightarrow\frac{207}{35}-\frac{1}{140}Q_s^*=0.22\\\Rightarrow Q_s^*=398.6\\\Rightarrow P^*_s=\frac{2147}{700}\approx3.07
+\displaylines{\text{MR}=\text{MC}\\\Rightarrow\frac{207}{35}-\frac{1}{140}Q_s^*=0.22\\\Rightarrow Q_s^*=398.6\\\Rightarrow P^*_s=\frac{2147}{700}\approx3.07}
 $$
 
 In this case, $0\leq P_s^*\leq 5$ so this is an acceptable price and quantity. The other equation we have to consider is $328-40P_s$. Notice how we have done this previously to get $Q^*_s=159.6$ and $P_s^*=4.21$. However, since this does not fall within the range $5<P_s^*\leq 8.2$, this price and quantity is not found on this demand function. Hence, with the first set of values, M&S sells 398.6 units of smoothie in small bottles at a price of £3.07 per unit. Notice how the price now falls between the previous two prices for small bottles of £2.61 and £4.21 when we discriminated to the two consumers.
@@ -165,7 +165,7 @@ In this case, $0\leq P_s^*\leq 5$ so this is an acceptable price and quantity. T
 Lastly, we calculate the profits earned from small bottle sales.
 
 $$
-\pi_s = \text{TR}-\text{TC}\\=398.6(\frac{2147}{700})-(10+0.22(398.6))\\=1222.563-97.692\\=1124.871\approx1124.87
+\displaylines{\pi_s = \text{TR}-\text{TC}\\=398.6(\frac{2147}{700})-(10+0.22(398.6))\\=1222.563-97.692\\=1124.871\approx1124.87}
 $$
 
 M&S earns a total of £1124.87 from the sale of small bottles.
@@ -173,13 +173,13 @@ M&S earns a total of £1124.87 from the sale of small bottles.
 Let us continue with the large bottles case. We first consider the question $Q_\ell=820-140P_\ell$. The inverse demand function is $P_\ell=\frac{41}{7}-\frac{1}{140}Q_\ell$. This results in a marginal revenue of $\text{MR}_\ell=\frac{41}{7}-\frac{1}{70}Q_\ell$. We can solve for the optimal price and quantity as before.
 
 $$
-\text{MR}=\text{MC}\\\Rightarrow\frac{41}{7}-\frac{1}{70}Q_\ell^*=0.2\\\Rightarrow Q_\ell^*=396\\\Rightarrow P^*_\ell=\frac{106}{35}\approx3.03
+\displaylines{\text{MR}=\text{MC}\\\Rightarrow\frac{41}{7}-\frac{1}{70}Q_\ell^*=0.2\\\Rightarrow Q_\ell^*=396\\\Rightarrow P^*_\ell=\frac{106}{35}\approx3.03}
 $$
 
 Again, since $0\leq P_\ell^*\leq 5$, this is an acceptable price and quantity. Similar to the small bottles case, we have seen the other question $Q_\ell=320-40P_\ell$, which has the optimal price and quantity of $P^*_\ell=4.10$ and $Q_\ell^*=156$ respectively. However, this price falls outside the range $5<P_\ell^*\leq 8$, and hence is not found on the demand function. With large bottles, M&S would sell 396 units at a price of £3.03 per unit. The total profits from large bottles is given below.
 
 $$
-\pi_\ell = \text{TR}-\text{TC}\\=396(\frac{106}{35})-(10+0.2(396))\\=1199.314-89.2\\=1105.114\approx1105.11
+\displaylines{\pi_\ell = \text{TR}-\text{TC}\\=396(\frac{106}{35})-(10+0.2(396))\\=1199.314-89.2\\=1105.114\approx1105.11}
 $$
 
 M&S earns a total of £1105.11 selling large bottles. Notice that the profits from selling small bottles are larger than selling large bottles, so $\pi_s>\pi_\ell$. Since M&S is profit maximising, and they are able to choose which product to produce for the market, M&S will choose to sell small bottles and earn the higher profit of £1124.87.
