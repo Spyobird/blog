@@ -41,7 +41,7 @@ $$
 where $a$ is the length of one of the square sides of the base and $h$ is the height. Also note that the volume $V$ can be given as
 
 $$
-V=d^2h\\\Rightarrow h=\frac{V}{d^2}
+\displaylines{V=d^2h\\\Rightarrow h=\frac{V}{d^2}}
 $$
 
 This allows us to write the surface area as
@@ -59,7 +59,7 @@ $$
 We still have to scale the surface area of the large bottle down by half, to factor in the per unit volume by which we are considering production. This allows us to get the packaging cost per unit volume. The final variable cost functions are shown below.
 
 $$
-C_s(q_s)=q_s[c_{\text{pack}}(\frac{2d^2}{V}+\frac{4}{d})+c_{\text{prod}}]\\C_\ell(q_\ell)=q_\ell[c_{\text{pack}}(\frac{d^2}{V}+\frac{4}{d})+c_{\text{prod}}]
+\displaylines{C_s(q_s)=q_s[c_{\text{pack}}(\frac{2d^2}{V}+\frac{4}{d})+c_{\text{prod}}]\\C_\ell(q_\ell)=q_\ell[c_{\text{pack}}(\frac{d^2}{V}+\frac{4}{d})+c_{\text{prod}}]}
 $$
 
 Now we can start modelling consumption. We assume that the market consists of two types of consumers. Consumer 1 is the person on the go, valuing convenience over cost. Consumer 1 is willing to spend more for the convenience of small bottles, however, they are still influenced by price and would buy large bottles if the price of small bottles is unreasonable. Consumer 2 on the other hand is the more price sensitive buyer. They are indifferent to the container size, and only purchase based on the volume of smoothie.
@@ -67,19 +67,19 @@ Now we can start modelling consumption. We assume that the market consists of tw
 To represent the consumers, we start off with base demand functions below. $Q_1$ and $Q_2$ are the quantity demanded for consumers 1 and 2 respectively, $P$ is the price, with the other variables being constants.
 
 $$
-Q_1(P)=a_1-b_1P\\\\ Q_2(P)=a_2-b_2P
+\displaylines{Q_1(P)=a_1-b_1P\\ Q_2(P)=a_2-b_2P}
 $$
 
 For consumer 1, we would like to separate the demand function into related demands for small bottles and large bottles. For the small bottles, we shall introduce a convenience factor $c_{\text{conv}}$ which models the buyer’s preference. This results in the following functions.
 
 $$
-Q_{1,s}(P_s)=a_1-b_1(P_s-c_{\text{conv}})\\Q_{1,\ell}(P_\ell)=a_1-b_1P_\ell
+\displaylines{Q_{1,s}(P_s)=a_1-b_1(P_s-c_{\text{conv}})\\Q_{1,\ell}(P_\ell)=a_1-b_1P_\ell}
 $$
 
 We do the same for consumer 2, however we do not need to modify the function between bottle sizes.
 
 $$
-Q_{2,s}(P_s)=a_2-b_2P_s\\Q_{2,\ell}(P_\ell)=a_2-b_2P_\ell
+\displaylines{Q_{2,s}(P_s)=a_2-b_2P_s\\Q_{2,\ell}(P_\ell)=a_2-b_2P_\ell}
 $$
 
 The choice of which bottle each consumer purchases depends on the prices $P_s$ and $P_\ell$. Consumer 1 will prefer small bottles if $P_s-c_{\text{conv}}<P_\ell$ and vice versa. Consumer 2 looks solely at price, preferring small bottles if $P_s< P_\ell$ and vice versa. The remaining condition we have to ensure is that the demand for consumer 2 is more elastic than consumer 1, representing consumer 2’s higher price sensitivity. This can be done through an appropriate choice of constants.
