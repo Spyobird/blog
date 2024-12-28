@@ -26,7 +26,7 @@ We shall attempt to model this through an economic lens. We will be making some 
 
 ### Modelling consumption and costs
 
-Let’s first begin by modelling costs. We assume that the total cost of production by M&S consists of three parts. There is a fixed cost $C_f$, a variable cost from producing small bottles $C_s$, and a variable cost in producing large bottles $C_\ell$. We can express this as a function of the quantity of drink produced by small bottles $q_s$ and large bottles $q_l$.
+Let’s first begin by modelling costs. We assume that the total cost of production by M&S consists of three parts. There is a fixed cost $C_f$, a variable cost from producing small bottles $C_s$, and a variable cost in producing large bottles $C_\ell$. We can express this as a function of the quantity of drink produced by small bottles $q_s$ and large bottles $q_\ell$.
 
 $$
 C(q_s, q_\ell)=c_f+C_s(q_s)+C_\ell(q_\ell)
@@ -53,7 +53,7 @@ $$
 We can then find the surface area for the large bottle by doubling the value of $V$.
 
 $$
-A_l=2d^2+\frac{8V}{d}
+A_\ell=2d^2+\frac{8V}{d}
 $$
 
 We still have to scale the surface area of the large bottle down by half, to factor in the per unit volume by which we are considering production. This allows us to get the packaging cost per unit volume. The final variable cost functions are shown below.
@@ -67,7 +67,7 @@ Now we can start modelling consumption. We assume that the market consists of tw
 To represent the consumers, we start off with base demand functions below. $Q_1$ and $Q_2$ are the quantity demanded for consumers 1 and 2 respectively, $P$ is the price, with the other variables being constants.
 
 $$
-Q_1(P)=a_1-b_1P\\ Q_2(P)=a_2-b_2P
+Q_1(P)=a_1-b_1P\\\\ Q_2(P)=a_2-b_2P
 $$
 
 For consumer 1, we would like to separate the demand function into related demands for small bottles and large bottles. For the small bottles, we shall introduce a convenience factor $c_{\text{conv}}$ which models the buyer’s preference. This results in the following functions.
