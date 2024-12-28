@@ -82,7 +82,7 @@ $$
 Q_{2,s}(P_s)=a_2-b_2P_s\\Q_{2,\ell}(P_\ell)=a_2-b_2P_\ell
 $$
 
-The choice of which bottle each consumer purchases depends on the prices $P_s$ and $P_\ell$. Consumer 1 will prefer small bottles if $P_s-c_{\text{conv}}<P_\ell$ and vice versa. Consumer 2 looks solely at price, preferring small bottles if $P_s< P_\ell$ and vice versa. The remaining condition we have to ensure is that the demand for consumer 2 is more elastic than consumer 1, representing consumer 2’s higher price sensitivity. This can be done through an appropriate choice of constants.
+The choice of which bottle each consumer purchases depends on the prices $P_s$ and $P_\ell$. Consumer 1 will prefer small bottles if $P_s-c_{\text{conv}}\ltP_\ell$ and vice versa. Consumer 2 looks solely at price, preferring small bottles if $P_s\lt P_\ell$ and vice versa. The remaining condition we have to ensure is that the demand for consumer 2 is more elastic than consumer 1, representing consumer 2’s higher price sensitivity. This can be done through an appropriate choice of constants.
 
 ### Constructing the full model
 
@@ -120,7 +120,7 @@ $$
 
 With the large bottles, M&S would produce 240 units of smoothie at a price of £2.60 per unit. Notice that we have reduced the price as compared to the small bottles, and have ended up selling an extra unit of smoothie.
 
-From the perspective of consumer 2, they would choose large bottles over small bottles as the price per unit of smoothie for large bottles is less than for small bottles, as $P_\ell^*<P_s^*$, since they are indifferent to the container size, .and only consider price.
+From the perspective of consumer 2, they would choose large bottles over small bottles as the price per unit of smoothie for large bottles is less than for small bottles, as $P_\ell^*\ltP_s^*$, since they are indifferent to the container size, .and only consider price.
 
 Let us now consider consumer 1. Similar to before, we shall begin with small bottles. Note that consumer 1 puts value on the convenience of small bottles, and hence is willing to pay a premium for small bottles. The demand function for small bottles is $Q_s=320-40(P_s-0.2)=328-40P_s$. The inverse demand function is given as $P_s=8.2-\frac{1}{40}Q_s$. Similar to before, we can derive the total revenue by multiplying by $Q_s$, and differentiate it to get the marginal revenue. Total revenue is thus $\text{TR}_s=8.2Q_s-\frac{1}{40}Q_s^2$, and marginal revenue is $\text{MR}_s=8.2-\frac{1}{20}Q_s$. The marginal cost is the same as before at $\text{MC}_s=0.22$. Hence, we can solve for the optimal price and quantity.
 
@@ -136,7 +136,7 @@ $$
 \text{MR}=\text{MC}\\\Rightarrow8-\frac{1}{20}Q_\ell^*=0.2\\\Rightarrow Q_\ell^*=156\\\Rightarrow P^*_\ell=4.10
 $$
 
-M&S will choose to produce 156 units of smoothie, selling it at a price of £4.10 per unit. In this case, the price of large bottles of smoothie are still cheaper per unit, but because consumer 1 values convenience, they are willing to pay a premium of £0.20 for small bottles over large bottles. Since $P_s^*-c_{\text{conv}}<P_\ell^*$, consumer 1 would choose small bottles over large bottles.
+M&S will choose to produce 156 units of smoothie, selling it at a price of £4.10 per unit. In this case, the price of large bottles of smoothie are still cheaper per unit, but because consumer 1 values convenience, they are willing to pay a premium of £0.20 for small bottles over large bottles. Since $P_s^*-c_{\text{conv}}\ltP_\ell^*$, consumer 1 would choose small bottles over large bottles.
 
 Given that consumer 1 would purchase small bottles, and consumer 2 would purchase large bottles, we can calculate the total profits made by M&S. To do this, we take the total revenue for each consumer and subtract the total costs of production.
 
@@ -151,7 +151,7 @@ With this model, M&S makes a total profit of £1202.80.
 To evaluate the effects of price discrimination, we can consider a model with a combined consumption. To do this, we do a horizontal summation of both consumer’s demand functions. The following are the resulting combined demand functions.
 
 $$
-Q_s=\begin{cases}828-140P_s&\text{if }0\leq P_s\leq5\\328-40P_s&\text{if }5<P_s\leq8.2\\0&\text{if }P_s>8.2\end{cases}\\Q_\ell=\begin{cases}820-140P_\ell&\text{if }0\leq P_\ell\leq5\\320-40P_\ell&\text{if }5<P_\ell\leq8\\0&\text{if }P_\ell>8\end{cases}
+Q_s=\begin{cases}828-140P_s&\text{if }0\leq P_s\leq5\\328-40P_s&\text{if }5\ltP_s\leq8.2\\0&\text{if }P_s\gt8.2\end{cases}\\Q_\ell=\begin{cases}820-140P_\ell&\text{if }0\leq P_\ell\leq5\\320-40P_\ell&\text{if }5\ltP_\ell\leq8\\0&\text{if }P_\ell\gt8\end{cases}
 $$
 
 Let us first begin with the case with small bottles. Consider first the equation $Q_s=828-140P_s$. The inverse demand function is thus $P_s=\frac{207}{35}-\frac{1}{140}Q_s$. The marginal revenue for this function is $\text{MR}_s=\frac{207}{25}-\frac{1}{70}Q_s$. The marginal cost is as before at $\text{MC}_s=0.22$. We solve for the optimal price and quantity as before.
@@ -160,7 +160,7 @@ $$
 \text{MR}=\text{MC}\\\Rightarrow\frac{207}{35}-\frac{1}{140}Q_s^*=0.22\\\Rightarrow Q_s^*=398.6\\\Rightarrow P^*_s=\frac{2147}{700}\approx3.07
 $$
 
-In this case, $0\leq P_s^*\leq 5$ so this is an acceptable price and quantity. The other equation we have to consider is $328-40P_s$. Notice how we have done this previously to get $Q^*_s=159.6$ and $P_s^*=4.21$. However, since this does not fall within the range $5<P_s^*\leq 8.2$, this price and quantity is not found on this demand function. Hence, with the first set of values, M&S sells 398.6 units of smoothie in small bottles at a price of £3.07 per unit. Notice how the price now falls between the previous two prices for small bottles of £2.61 and £4.21 when we discriminated to the two consumers.
+In this case, $0\leq P_s^*\leq 5$ so this is an acceptable price and quantity. The other equation we have to consider is $328-40P_s$. Notice how we have done this previously to get $Q^*_s=159.6$ and $P_s^*=4.21$. However, since this does not fall within the range $5\ltP_s^*\leq 8.2$, this price and quantity is not found on this demand function. Hence, with the first set of values, M&S sells 398.6 units of smoothie in small bottles at a price of £3.07 per unit. Notice how the price now falls between the previous two prices for small bottles of £2.61 and £4.21 when we discriminated to the two consumers.
 
 Lastly, we calculate the profits earned from small bottle sales.
 
@@ -176,13 +176,13 @@ $$
 \text{MR}=\text{MC}\\\Rightarrow\frac{41}{7}-\frac{1}{70}Q_\ell^*=0.2\\\Rightarrow Q_\ell^*=396\\\Rightarrow P^*_\ell=\frac{106}{35}\approx3.03
 $$
 
-Again, since $0\leq P_\ell^*\leq 5$, this is an acceptable price and quantity. Similar to the small bottles case, we have seen the other question $Q_\ell=320-40P_\ell$, which has the optimal price and quantity of $P^*_\ell=4.10$ and $Q_\ell^*=156$ respectively. However, this price falls outside the range $5<P_\ell^*\leq 8$, and hence is not found on the demand function. With large bottles, M&S would sell 396 units at a price of £3.03 per unit. The total profits from large bottles is given below.
+Again, since $0\leq P_\ell^*\leq 5$, this is an acceptable price and quantity. Similar to the small bottles case, we have seen the other question $Q_\ell=320-40P_\ell$, which has the optimal price and quantity of $P^*_\ell=4.10$ and $Q_\ell^*=156$ respectively. However, this price falls outside the range $5\ltP_\ell^*\leq 8$, and hence is not found on the demand function. With large bottles, M&S would sell 396 units at a price of £3.03 per unit. The total profits from large bottles is given below.
 
 $$
 \pi_\ell = \text{TR}-\text{TC}\\=396(\frac{106}{35})-(10+0.2(396))\\=1199.314-89.2\\=1105.114\approx1105.11
 $$
 
-M&S earns a total of £1105.11 selling large bottles. Notice that the profits from selling small bottles are larger than selling large bottles, so $\pi_s>\pi_\ell$. Since M&S is profit maximising, and they are able to choose which product to produce for the market, M&S will choose to sell small bottles and earn the higher profit of £1124.87.
+M&S earns a total of £1105.11 selling large bottles. Notice that the profits from selling small bottles are larger than selling large bottles, so $\pi_s\gt\pi_\ell$. Since M&S is profit maximising, and they are able to choose which product to produce for the market, M&S will choose to sell small bottles and earn the higher profit of £1124.87.
 
 Comparing with the previous model using price discrimination, M&S makes a total of £1202.80. This is higher than this combined consumption model which has a profit of £1124.87. By identifying the two types of consumers in the market, M&S can differentiate their products to cater to the different consumers. This allows M&S to sell the smoothie to different consumers at different prices. Price discrimination allows M&S to earn a larger share of the consumer surplus as profits, making M&S better off.
 
@@ -190,7 +190,7 @@ Comparing with the previous model using price discrimination, M&S makes a total 
 
 In our hypothetical model, small bottles were priced at £4.21 per unit, while large bottles were priced at £2.60 per unit. As large bottles are 2 units of smoothie each, this comes up to £5.20 per bottle, only £1 more than the price of small bottles. While this is not exactly the same scenario as the cheaper 750ml bottles I had, we can easily see how this may extend that the price of large bottles can become cheaper than the price of small bottles, due to price discrimination.
 
-Now we do have to address some assumptions made. The biggest of which is why would consumers (even the on the go one) purchase the more expensive small bottles when the large bottles are much cheaper. We previously saw that consumer 1 would choose small bottles only if $P_s-c_{\text{conv}}<P_\ell$. In this case, the £4.21 small bottle is much more that £0.20 more than the £2.60 cost of the large bottle per unit of smoothie.
+Now we do have to address some assumptions made. The biggest of which is why would consumers (even the on the go one) purchase the more expensive small bottles when the large bottles are much cheaper. We previously saw that consumer 1 would choose small bottles only if $P_s-c_{\text{conv}}\ltP_\ell$. In this case, the £4.21 small bottle is much more that £0.20 more than the £2.60 cost of the large bottle per unit of smoothie.
 
 The answer lies in information asymmetry. Normally we like to assume consumers have full information about the goods they can buy. In this case, that might not be so. As mentioned, the small bottles are placed right at the front of the store, while the large bottles are hidden in the back. The consumer that is on the go probably does not have the information about the large bottles, or is unwilling to commit the time to find them. This artificially inflates the demand of small bottles, as large bottles are less substitutable. Consumer 1 might think the only type of smoothie are in the small bottles. On the other hand, consumer 2 looks for the more value for money smoothies, overcoming this information asymmetry and purchasing the larger bottles instead.
 
