@@ -2,17 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>/</loc>
+    <lastmod>2024-08-31T23:53:12+08:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2024-08-31T23:53:12+08:00</lastmod>
+  </url><url>
+    <loc>/posts/310824/</loc>
+    <lastmod>2024-08-31T23:53:12+08:00</lastmod>
+  </url><url>
+    <loc>/posts/250824/</loc>
+    <lastmod>2024-08-26T00:10:03+08:00</lastmod>
+  </url><url>
+    <loc>/posts/190824/</loc>
+    <lastmod>2024-08-19T23:38:34+08:00</lastmod>
+  </url><url>
+    <loc>/posts/180824/</loc>
+    <lastmod>2024-08-19T07:48:51+08:00</lastmod>
+  </url><url>
+    <loc>/posts/160824/</loc>
+    <lastmod>2024-08-17T00:06:52+08:00</lastmod>
+  </url><url>
+    <loc>/posts/150824/</loc>
+    <lastmod>2024-08-15T23:18:53+08:00</lastmod>
+  </url><url>
+    <loc>/posts/140824/</loc>
+    <lastmod>2024-08-15T00:26:01+08:00</lastmod>
+  </url><url>
+    <loc>/posts/130824/</loc>
+    <lastmod>2024-08-13T23:41:41+08:00</lastmod>
+  </url><url>
+    <loc>/posts/110824/</loc>
+    <lastmod>2024-08-12T00:17:41+08:00</lastmod>
+  </url><url>
+    <loc>/posts/100824/</loc>
+    <lastmod>2024-08-10T23:25:57+08:00</lastmod>
+  </url><url>
+    <loc>/posts/090824/</loc>
+    <lastmod>2024-08-09T23:47:08+08:00</lastmod>
+  </url><url>
+    <loc>/posts/080824/</loc>
+    <lastmod>2024-08-09T00:01:49+08:00</lastmod>
+  </url><url>
+    <loc>/posts/070824/</loc>
+    <lastmod>2024-08-08T00:07:50+08:00</lastmod>
+  </url><url>
+    <loc>/posts/060824/</loc>
+    <lastmod>2024-08-07T00:07:48+08:00</lastmod>
+  </url><url>
+    <loc>/posts/050824/</loc>
+    <lastmod>2024-08-06T00:10:22+08:00</lastmod>
+  </url><url>
+    <loc>/posts/040824/</loc>
     <lastmod>2024-08-05T02:53:09+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/</loc>
-    <lastmod>2024-08-05T02:53:09+08:00</lastmod>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/040824/</loc>
-    <lastmod>2024-08-05T02:53:09+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

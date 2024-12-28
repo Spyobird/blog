@@ -2,3 +2,13 @@ baseURL = 'https://spyobird.github.io/blog/'
 languageCode = 'en-us'
 title = "elliot's blog"
 theme = 'hugo-simple'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+[params]
+  math = true

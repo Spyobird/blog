@@ -1,44 +1,165 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hi</title>
-    <link>http://localhost:1313/blog/posts/</link>
-    <description>Recent content on Hi</description>
+    <title>Posts on </title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 05 Aug 2024 02:53:09 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Aug 2024 23:53:12 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Satisfaction of Time</title>
+      <link>/posts/310824/</link>
+      <pubDate>Sat, 31 Aug 2024 23:53:12 +0800</pubDate>
+      
+      <guid>/posts/310824/</guid>
+      <description>Recently, I was listening to a podcast about how we treat our time. And there was something that resonated strongly, that a lot of the time our sense of satisfaction or accomplishment is dependent on how we view our time.
+Interestingly, people felt dissatisfied when they either had too little free time, or too much free time. With too little free time, one wishes they had more autonomy and freedom, not having to rush through things.</description>
+    </item>
+    
+    <item>
+      <title>The Free Will Illusion</title>
+      <link>/posts/250824/</link>
+      <pubDate>Mon, 26 Aug 2024 00:10:03 +0800</pubDate>
+      
+      <guid>/posts/250824/</guid>
+      <description>So I was originally planning to write about the national day rally, but I realised I was not motivated enough about the topic. Now, I am trying to resume the habit of writing again after five days, and I wanted to talk about an interesting idea that I read about. As you can see from the title, the topic is on free will.
+Do we have free will? This discussion begins with a bit of a primer about free will.</description>
+    </item>
+    
+    <item>
+      <title>NDR: Revamped GEP</title>
+      <link>/posts/190824/</link>
+      <pubDate>Mon, 19 Aug 2024 23:38:34 +0800</pubDate>
+      
+      <guid>/posts/190824/</guid>
+      <description>Since I have no topic for this week, I decided that maybe I should write some posts on my opinions of the national day rally (NDR). Well because I am a lazy person, I did not actually watch the NDR proper, and am relying on second hand sources of information — online news — and the small snippets from youtube. Anyways these are just my opinions from a not very knowledgeable average unemployed adult.</description>
+    </item>
+    
+    <item>
+      <title>Reflecting On My Public Speaking Experience</title>
+      <link>/posts/180824/</link>
+      <pubDate>Mon, 19 Aug 2024 07:48:51 +0800</pubDate>
+      
+      <guid>/posts/180824/</guid>
+      <description>Today I had the opportunity to give a talk in church. It was a great avenue for practicing my public speaking skills. Now, I am no public speaker, so I don’t get many opportunities to do this. So I really want to treasure each opportunity I get, to build up this skillset. Hence this post will be a reflection on what are some of the areas at which I think I can improve in.</description>
+    </item>
+    
+    <item>
+      <title>Smart Studying</title>
+      <link>/posts/160824/</link>
+      <pubDate>Sat, 17 Aug 2024 00:06:52 +0800</pubDate>
+      
+      <guid>/posts/160824/</guid>
+      <description>I would like to end of the week by giving some studying tips for students out there. After all, it is good to study smart not just hard. I want to preface firstly that my tips are not a one size fit all, and they are definitely catered to my style of learning, which I think is relatively fast paced. I think for my major as well (computer science), there is more emphasis on generalising to the big picture rather than zooming in on details, so much of what I learn is more conceptual and abstracted.</description>
+    </item>
+    
+    <item>
+      <title>Acknowledge Our Limits</title>
+      <link>/posts/150824/</link>
+      <pubDate>Thu, 15 Aug 2024 23:18:53 +0800</pubDate>
+      
+      <guid>/posts/150824/</guid>
+      <description>Today I would like to talk a topic that I feel is very important. Acknowledging our limits of time and energy. In the pursuit of learning and enjoying life, we must remember that we are only human. We only have the physical capacity to do so much.
+This is a lesson that I had to learn as a student. I think it is easy to put an unrealistic expectation on oneself, that one can take on the world by themselves.</description>
+    </item>
+    
+    <item>
+      <title>Organise Your Time</title>
+      <link>/posts/140824/</link>
+      <pubDate>Thu, 15 Aug 2024 00:26:01 +0800</pubDate>
+      
+      <guid>/posts/140824/</guid>
+      <description>Today we will be talking about organising time. I think this is probably one of the simplest things I have started, that has made a big difference in my life. I cannot stress the benefits of organising your time. It allows you relieve the mental load of storing date, time and activity information and relinquish it all to your calendar.
+Calendar setup I usually set up my calendar for the week ahead.</description>
+    </item>
+    
+    <item>
+      <title>Learn All You Can</title>
+      <link>/posts/130824/</link>
+      <pubDate>Tue, 13 Aug 2024 23:41:41 +0800</pubDate>
+      
+      <guid>/posts/130824/</guid>
+      <description>Primer Recently, it is starting to take much too long to think about what to write for each day. This is especially so because I only start thinking about it rather late at night. So I have decided that a better approach to doing this is to spend some time each week planning out what to write for the week.
+Since the university semester has started, I thought it would be apt to give some lessons for the students out there.</description>
+    </item>
+    
+    <item>
+      <title>Nuggets of the Week</title>
+      <link>/posts/110824/</link>
+      <pubDate>Mon, 12 Aug 2024 00:17:41 +0800</pubDate>
+      
+      <guid>/posts/110824/</guid>
+      <description>It’s the end of the week again. Time for another post to recollect and reflect on the past week. I think I have absorbed and thought about many things. Much of it come in the form of nuggets of information. But there are just so many different nuggets, that it is hard to filter through and find what is valuable to remember.
+I’m still working through the process of organising the information I consume, and this involve building structures which can take time.</description>
+    </item>
+    
+    <item>
+      <title>Constraint Satisfaction</title>
+      <link>/posts/100824/</link>
+      <pubDate>Sat, 10 Aug 2024 23:25:57 +0800</pubDate>
+      
+      <guid>/posts/100824/</guid>
+      <description>When I reached home today, I felt drained. The best part, I don’t know why. It might be because I had a day filled with activity, or perhaps it was the social interactions I had, or it might had been that I had woken up early. Whatever the case, it was a strong feeling of being out of juice.
+This brought to mind a recent string of thoughts I had about limits.</description>
+    </item>
+    
+    <item>
+      <title>What is Joy?</title>
+      <link>/posts/090824/</link>
+      <pubDate>Fri, 09 Aug 2024 23:47:08 +0800</pubDate>
+      
+      <guid>/posts/090824/</guid>
+      <description>I’ve noticed recently that I have been writing ideas which I took from podcasts I had listen to through the day. And while there is so much new information to glean from podcasts, I am starting to feel a bit disingenuous that I am ‘stealing’ other people’s thought — the urge academic integrity is kicking in. So from now onwards I shall attempt to synthesis something from myself.
+Today was a day with much activity, which meant little time for space and reflection.</description>
+    </item>
+    
+    <item>
+      <title>A Thought About Confidence</title>
+      <link>/posts/080824/</link>
+      <pubDate>Fri, 09 Aug 2024 00:01:49 +0800</pubDate>
+      
+      <guid>/posts/080824/</guid>
+      <description>Thinking of writing a shorter one today, because I’m sleepy. This is a continuation of yesterday’s post, where I introduced a perspective of shyness as three different senses. Now I would like to bring to the table three thoughts about the confidence.
+Confidence is actionable
+Confidence is primarily reflected by outward appearances. It is an assessment of our character from our behaviour. This means confidence can be expressed as actions which we ourselves choose to do.</description>
+    </item>
+    
+    <item>
+      <title>A Thought About Shyness</title>
+      <link>/posts/070824/</link>
+      <pubDate>Thu, 08 Aug 2024 00:07:50 +0800</pubDate>
+      
+      <guid>/posts/070824/</guid>
+      <description>As I continue writing these short articles, I’m noticing a structure for these posts is organically forming. I am tending towards writing about one life lesson and then maybe yapping a little bit about my day. Well, let’s just see how this develops.
+Today’s topic is a small thought of the nature of shyness. I got this thought while listening to a podcast — which seems to be my recent basis for life lessons.</description>
+    </item>
+    
+    <item>
+      <title>The Pursuit of Flexibility</title>
+      <link>/posts/060824/</link>
+      <pubDate>Wed, 07 Aug 2024 00:07:48 +0800</pubDate>
+      
+      <guid>/posts/060824/</guid>
+      <description>When I started my funemployment posts last week, I had a perspective that I should be maximising each and every day of my break. But as the days went by I was doing a lot of things but not appreciating life. And now, merely a week later, I have a paradigm shift in my mindset: one can be productive without filling up your day with activity. Not that we should waste our time and laze around, but that maximising was no longer a priority.</description>
+    </item>
+    
+    <item>
+      <title>Don’t Do Too Much</title>
+      <link>/posts/050824/</link>
+      <pubDate>Tue, 06 Aug 2024 00:10:22 +0800</pubDate>
+      
+      <guid>/posts/050824/</guid>
+      <description>Preface So after yesterday’s post, I realised that writing is kinda fun. And since I already did all the setup for a blog site, I decided that maybe I should just continue writing. However, I thought that I should add some constraints of time and length to this writing, so I don’t end up staying up all night smoking something up. Hopefully this practice helps me improve my coherence, for I noticed I have a tendency to repeat certain phrases, and that I feel sometimes my ideas do not come across with clarity or precision.</description>
+    </item>
+    
     <item>
       <title>Reflections on Being Funemployed</title>
-      <link>http://localhost:1313/blog/posts/040824/</link>
+      <link>/posts/040824/</link>
       <pubDate>Mon, 05 Aug 2024 02:53:09 +0800</pubDate>
-      <guid>http://localhost:1313/blog/posts/040824/</guid>
+      
+      <guid>/posts/040824/</guid>
       <description>So the past week I decided it would be an interesting idea to document each day with an instagram story. I did it mainly because I was getting too bored being unemployed, so I hoped that maybe it would help me appreciate each day a bit more, while also helping me to think of more things to do to fill my time in order to not have a boring story on any particular day.</description>
-      <content:encoded><![CDATA[<p>So the past week I decided it would be an interesting idea to document each day with an instagram story. I did it mainly because I was getting too bored being unemployed, so I hoped that maybe it would help me appreciate each day a bit more, while also helping me to think of more things to do to fill my time in order to not have a boring story on any particular day. These are a small collection of thoughts and reflections on the past week.</p>
-<blockquote>
-<p>WARNING: A VERY LONG READ AHEAD</p>
-<p>Highly recommend skipping to the &ldquo;actual reflections&rdquo; section first.</p>
-</blockquote>
-<hr>
-<h3 id="the-dilemma-of-strive-aka-yapping">The Dilemma of Strive (aka yapping)</h3>
-<p>I shall start things off by describing a sense of not knowing what I should be doing during this period of unemployment. And this sense is a familiar one, for it has previously appeared to me during periods of rest from a routine life, such as during holidays, long weekends, or summer breaks. To better describe this sense, I think it is a compound of a few senses. First, a sense of lostness that given a break from a certain routine of life — be it school, army, or work — in finding something to do to fill the time. Second, a sense of dissatisfaction in doing ‘nothing’ during the day, as if one has wasted the day. It can appear that each passing day brings a certain attrition to self-growth, and that doing ‘nothing’ for too long leads to a degenerate lifestyle. The third is a sense of ambition, toward achieving a certain idealised lifestyle, of which one always dream of but never achieve. This lifestyle is at its core based off a need to be productive, probably formed from what society has ingrained in us from birth — after all, does Elon Musk sit at home and binge watch netflix on his off days?</p>
-<p>I realise now this description is a little verbose to say the least, and I’m starting to enter directionless yapping. So I think a phrase that would help you, the reader, relate to this sentiment is to “making better use of my time”, which I hope rings with familiarity for some. Well this sense is not by nature bad (I think), for it is merely a sense. Furthermore, it does help me to think more deeply about how I spend my time each day, and gives me some motivation to finding new things to do. But of course, what is a good plot without conflict. The tension arises with a second way of thinking, “it is okay to take a break”. This view carries with it a sense of meekness and honesty, one of accepting one’s limits, for one is only human. On a side note, I have noticed that this style of saying have been becoming more popular nowadays. Something along the lines of an “it’s okay to not be okay” or an “it’s normal to feel this way”. It is sort of a self-care-ish, appreciating and living out one’s identity, self-acceptance kind of vibe, which I appreciate.</p>
-<p>This I call “the dilemma of strive”, which I think encapsulates a general idea of what I have been trying to convey so far, that I shall use as a label from now on. More so, I just want to sound cool and philosophical by giving an intellectual sounding name to something rather mundane. There is probably much I could possible unpack about the the dilemma of strive, but I will start with an empirical perspective (from myself) about this dilemma.</p>
-<p>I will begin by talking about actions and consequences. First and foremost, I have spent a day doing ‘nothing’ before — thanks covid. Examples of what ‘nothing’ looks like could be lying in bed, playing video games, watching youtube, having parasocial interactions with streamers on twitch, or binge watching netflix all day. Although these activities in itself might have strong boosts of dopamine, they have a sense of bein unproductive. I would say people would generally agree that it is okay to have one of these days once in a while, but too much and this would be considered a degenerate lifestyle. But regardless of what the social connotations are with these actions, the main consequence is that these actions sometimes don’t feel like taking a break, at least to me. It can sometimes even feel more exhausting to live this kind of lifestyle — what a crazy thought that sleeping more can become exhausting. Physically, this can also result in low-energy, low-mood, low-brain days. Additionally, this lifestyle is very easy to default to, almost like its merely killing time for an idle mind. When I have one of these days, it does not feel like a break in the slightest, but more of a limbo of a day, just kinda floating around and existing. Maybe this arises from a misplaced understanding of what a break entails, but I do think that these activities are generally considered for respite, and there are still many instances where these activities are relaxing to me.</p>
-<p>So the solution is just to engage in other activities? Well, that was what this past week had been about, a journey of discovering what else I can do with my time. I came in with a mindset of maximising each day, and to try to minimise doing ‘nothing’. I had planned a certain key activity for each day, stuff like writing music, coding up things, and baking. I had also filled up the remainder of my time with ‘productive’ things to do, which includes reading, watching ted talks, listening to podcasts, exercising and watching lectures from reputable universities that I found online for free — I guess I do miss academia huh. The good thing, these were really fun to do, although I do wonder whether the novelty of doing new things affects it. The catch, these things took mental effort. It was no longer an “I’m bored let me reach for my phone”, but a wholehearted “ok it is 10am it is time to do this”. There was an inertia and some activation energy was required. This, alongside packing a full schedule, means days can get physically or mentally tiring, although it feels more fulfilling as I have a sense of having done something productive. Well this seems like a win, but I wonder how sustainable this pursuit is in long term, one because channelling motivation is not always easy, but also more practically I am running out of ideas of things to do.</p>
-<p>I think I have been yapping too much about this idea without saying much of anything really — thank you NUS — so I think I shall segue into something else, and maybe come back to this later. To adjourn this discussion of the dilemma of strive, I am thinking that perhaps a question I need to discover is what is the nature of having a break? Is it about physical and mental rest? Is it about the productive nature of the activity being done? What exactly defines a good break. My preliminary answer is that it includes a certain balance between these two (or perhaps more) parts, which I think is an answer obvious to many. But it is much easier to say there is a need for a balance than to describe what that balance is. Well time to talk about other things.</p>
-<h3 id="actual-reflections">Actual Reflections</h3>
-<p>If you have gotten here, I want to thank you for putting up with my yapping. I think it would be helpful for me to actually share a few nuggets of what I have learnt through this endeavour. Maybe I should have done this first before starting the deep philosophical rant but oh wells. For fun, I decided to accompany these thoughts with catchphrases, some of which are admittedly not very catchy.</p>
-<p><strong>“As an introvert, I crave social interactions”</strong></p>
-<p>One thing I have noticed, is that my greatest joy each day — or perhaps my greatest dopamine boost — is when I get to interact with my friends and socialise. Well conventionally, I think there is an idea that introverts don’t do too much social stuff. And although I do consider myself rather strongly introverted, I do very much enjoy doing social stuff. Although I say this with a biased perspective, because I did only go for one-to-one or small group meets, with people I am familiar with, which perhaps reduced the social inertia. But assuming I am a secret lover of social situations, I don’t end up doing social stuff much. I think this comes from two reasons, that I don’t get invited much to do social things, and that I don’t initiate social things often. The first point of not getting invited, I think arises from a perception that others have of my reserved nature. That and my rather glacial nature of analysis over empathy, my stubbornness to participating in small talk, and my inelegance of behaviour is social situations, results in me being seen as someone that would rather do my own thing. My point is not that I am a loner with no friends, but that usually I find myself inserting myself into social situations rather than being invited. And this comes to the second reason. I think being introverted takes away much mindfulness towards socialising. I mean this in two senses, one that I don’t take notice of opportunities where I could initiate something, but two also that there is a lot of intentional mental effort to initiating something social. Well people say the more you do something the better you get at it, so maybe I will try initiating more.</p>
-<p><strong>“Time crawls when you’re having fun”</strong></p>
-<p>I thought that by cramming my day packed with things to do, that I would find not enough time to do everything. Well there were some things that I did not have time to complete. But notably, in the midst of doing these things I found that my perception of time had slowed. Which is kinda surprising, because through past experiences of studying in school, I thought time passed by way too quickly. I was always wishing for more time to think, more time to do assignments, and more time to sleep. No clue why this felt this way, and whether this is just some subjective one off sensation — which I guess it kinda is — but I really got to appreciate every single moment of doing something, which was very enjoyable. Furthermore, it made each day feel like a long adventure with so much accomplishment.</p>
-<p><strong>“Using my brain is hard”</strong></p>
-<p>Recently I decided to read some philosophical books, thinking “oh I will just read some books in my free time and get some knowledge and become super smart”. Turns out reading philosophy books are hard, because they make use of a lot of brain. And turns out one’s brain has limits of focus and energy. Sometimes I do forget this fact, even after 16 years of formal education, that the brain is not some invincible supercomputer that just eats knowledge for free — as a matter of fact supercomputers are also huge energy sinks. What I realised is helpful, is not to treat everything in life as academia, but that doesn’t mean to stop learning — yay to lifelong learning. Sometimes, it is good to have a brain-off activity to recharge and relax. For me, my brain-off activity was reading <em>The Metamorphosis</em> by Franz Kafka, which in hindsight is not the most brain-off of books, but it was a good source of recharge too.</p>
-<p><strong>“Say no to social media”</strong></p>
-<p>Pardon the cheesy tagline, but over the course of this week, I found myself sort of half-consciously limiting my social media use. Partially because whenever I wanted to open social media, I remembered the other stuff I was to do. Which is kind of ironic, because I decided to document my life on instagram, but I found myself only opening instagram only once or twice a day, just to take a quick look at other people’s stories. Linking to the previous point, I think some would consider social media a brain-off activity, but it can end up taking up so much time in a day. It doesn’t hit me often that I spend so much time on my phone. I can see like a daily average 6 or 7 hour screen time and not think twice about it. But that is like a third of the day spent on the phone, and like half my waking hours. That is kinda crazy when you think about it. I am happy to announce I dropped my screen time last week by 11% to a average of 5 hours and 3 minutes yay.</p>
-<p>That is the end of my reflections. I have decided to reserve my thought of the dilemma of strive for another day. If you read all this you get an emoji. 😁</p>
-]]></content:encoded>
     </item>
+    
   </channel>
 </rss>
