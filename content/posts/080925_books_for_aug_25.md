@@ -29,7 +29,3 @@ This book is about developing supercommunicator skills to improve communication 
 The author uses questions as the main tool for communication, as they are good for showing interest and building connection. To better this, one can prove to the other person that they are listening by reflecting and paraphrasing what the other person said back to them. After listening, sharing back vulnerability creates emotional contagion which leads to deepening connection. Finally, learning to ask deep questions can invite the other person to share their values and beliefs.
 
 This book has brought some new perspective to me, as a person looking to improve how I interact with people. A skill which I will be practicing is learning to ask deep questions. I think this is important as deep questions lead to a deeper understanding of deeper things like values, even if the question does not appear deep at first. To do this I will be trying to reframe the way I ask questions. This book has taught me that being socially connected matters, as the biggest sign of success in life is the quality of relationships.
-
-Mindset shifts make all the difference. A study — I believe — has shown, that seeing your weekend as a vacation, helps you to treat it like one. You end up enjoying it more, and become more mindful and present of it. Kind of like how you would have joy and anticipation when going on a fun road trip somewhere. Enjoy your weekend to the maximum!
-
-This concludes my article, which may be my last in a while. A bit of a long one today. Thanks for reading!
