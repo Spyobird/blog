@@ -18,7 +18,7 @@ A curious thought is that perhaps the thoughtlessness is an intentional choice, 
 
 I think there is an underlying idea behind the video that stirs up deeper emotions. It is not just that Israelis are living a good life in Tel Aviv, but the sense that these Israeli could do something to lessen the suffering in Gaza. This comes to the second point on justice and responsibility. Who is responsible for such suffering in the region? Who created the chaos?
 
-It is very difficult to answer this question, but the broad answer is that both sides have contributed to the situation now. The video I watched seems to portray a bit of a negative light on Israel towards situation in Gaza, and I have identified a possible line of reasoning why. The line of reasoning follows below:
+It is very difficult to answer this question, but the broad answer is that both sides have contributed to the situation now. The video I watched seems to portray a bit of a negative light on Israel towards the situation in Gaza, and I have identified a possible line of reasoning why. The line of reasoning follows below:
 
 1. There is massive suffering in Gaza, with destruction and unethical killings, caused by the IDF.
 2. The average Israeli in Tel Aviv appears to be living in privilege and nonchalance towards the suffering in Gaza.
